@@ -1,5 +1,4 @@
 # junitTesting
-# junitTesting
 
 This is a simple Java project demonstrating the use of JUnit for testing a basic service class.
 
